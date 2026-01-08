@@ -11,7 +11,7 @@ Analyze Zomato restaurant and review data to uncover insights on ratings, cuisin
 
 ## Files
 - `analysis.ipynb` : Jupyter Notebook containing data cleaning, EDA, and visualizations.
-- `Zomato_Restaurant_Analysis_Report.docx` : Detailed report with key findings and business recommendations.
+- `Zomato_Restaurant_Analysis_Report.pdf` : Detailed report with key findings and business recommendations.
 - `README.md` : Project overview and summary.
 
 ## Tech Stack
